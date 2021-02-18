@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![image of spongebob](https://data.whicdn.com/images/349940758/original.jpg)
