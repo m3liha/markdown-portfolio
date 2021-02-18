@@ -1,0 +1,4 @@
+* reading
+* sleeping
+* eating
+* studying
